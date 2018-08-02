@@ -1,3 +1,5 @@
-<?php 
-echo "test said ok";
-?>
+<<<<<<< HEAD
+lllddd
+=======
+lllddkkkfkfd
+>>>>>>> mmm

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-lllddd
-=======
-lllddkkkfkfd
->>>>>>> mmm
+branche said commit 1
